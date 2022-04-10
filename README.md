@@ -2,6 +2,12 @@
 
 > React Native Flag component with all the flags in the world
 
+[![license](https://img.shields.io/github/license/Forward-Software/react-native-flags-kit.svg)](LICENSE) [![Build & Test](https://github.com/Forward-Software/react-native-flags-kit/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/Forward-Software/react-native-flags-kit/actions/workflows/build-and-test.yml) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Forward-Software/react-native-flags-kit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/forward-software/react-native-flags-kit/context:javascript) [![Github Issues](https://img.shields.io/github/issues/Forward-Software/react-native-flags-kit.svg)](https://github.com/forward-software/react-native-flags-kit/issues)
+
+[![npm](https://img.shields.io/npm/v/@forward-software/react-native-flags-kit)](https://npmjs.com/package/@forward-software/react-native-flags-kit) [![NPM downloads](https://img.shields.io/npm/dm/@forward-software/react-native-flags-kit.svg)](https://npmjs.com/package/@forward-software/react-native-flags-kit)
+
+![react-native-flags-kit-example.gif](https://github.com/Forward-Software/react-native-flags-kit/blob/main/.github/assets/react-native-flags-kit-example.gif)
+
 ## Installation
 
 ```sh
